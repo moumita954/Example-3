@@ -1,2 +1,2 @@
-# Example-3
-Constraint Example(from a single point on the roof to multiple bobs)
+# p5.play-boilerplate
+Boiler plate for p5.play
